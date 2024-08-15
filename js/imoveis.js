@@ -161,9 +161,9 @@ const imoveisDB = [
         "id": 10,
         "tipo" : "casa",
         "url_foto": "img/10.jpg",
-        "nome": "Casa de pobre",
-        "cidade": "Xique - Xique",
-        "estado": "Bahia",
+        "nome": "Casa de alto padrão",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
         "favorito": false,
         "adicionais":[
             {
